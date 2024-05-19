@@ -1,0 +1,52 @@
+/* index.css */
+
+/* Navbar Styles */
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  /* Middle Section Styles */
+  .middle {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  /* Left Sidebar Styles */
+  .left-sidebar {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  /* Right Section Styles */
+  .right-section {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
+  /* Footer Styles */
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  /* Light Bulb Styles */
+  .light-bulb {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ccc;
+    margin-bottom: 10px;
+  }
+  
+  .light-bulb.on {
+    background-color: green;
+  }
+  
+  .light-bulb.off {
+    background-color: #ccc;
+  }
+  
